@@ -1,0 +1,5 @@
+[DEFAULT]
+default-user = foo
+
+[foo]
+token=EDIT_ME
